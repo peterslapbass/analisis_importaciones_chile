@@ -1,0 +1,43 @@
+body {
+    background-color: #18191a !important;
+    color: #f5f6fa !important;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, label {
+    color: #f5f6fa !important;
+}
+
+.dash-table-container .dash-spreadsheet-container {
+    background-color: #23272b !important;
+    color: #f5f6fa !important;
+}
+
+input, .Select-control, .Select-menu-outer, .Select-placeholder, .Select-value-label {
+    background-color: #23272b !important;
+    color: #f5f6fa !important;
+    border: 1px solid #444 !important;
+}
+
+.DateInput_input, .DateInput_input_1 {
+    background-color: #23272b !important;
+    color: #f5f6fa !important;
+    border: 1px solid #444 !important;
+}
+
+button, .dash-uploader--button {
+    background-color: #23272b !important;
+    color: #f5f6fa !important;
+    border: 1px solid #444 !important;
+}
+
+hr {
+    border-color: #444 !important;
+}
+
+.my-header {
+    color: #00cec9 !important;
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
